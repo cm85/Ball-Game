@@ -1,7 +1,7 @@
 # Pong-Game
 ## Carlo's Pong Game
 
-	### Its a simple game very similar to pong. I have faith with these rules below you can figure it out!
+### Its a simple game very similar to pong. I have faith with these rules below you can figure it out!
 	
 ## Enjoy!
 ### The Rules:
