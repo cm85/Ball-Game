@@ -1,9 +1,6 @@
 # Pong-Game
 ## Carlo's Pong Game
-
-### Its a simple game very similar to pong. I have faith with these rules below you can figure it out!
 	
-## Enjoy!
 ### The Rules:
 #### 1. Collect the green dots
 #### 2. Avoid the red dots
@@ -14,6 +11,5 @@
 #### 7. After each level you gain a new life 
 #### 8. Collect blue dots to gain an extra life
 #### 9.	Lose all your lives and GAME OVER.....								
-			  	
-					
-  [Start Here](http://cm85.github.io/Pong-Game)					
+[Start Here](http://cm85.github.io/Pong-Game)
+## Enjoy!
