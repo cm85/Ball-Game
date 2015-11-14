@@ -11,5 +11,5 @@
 #### 7. After each level you gain a new life 
 #### 8. Collect blue dots to gain an extra life
 #### 9.	Lose all your lives and GAME OVER.....								
-[Start Here](http://cm85.github.io/Pong-Game)
+[Start Here](http://cm85.github.io/Pong-Video-Game)
 ## Enjoy!
